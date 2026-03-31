@@ -1,0 +1,16 @@
+# Build artifacts
+/target/
+
+# Cargo.lock is committed for binaries, but not for libraries
+Cargo.lock
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
